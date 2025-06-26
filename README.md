@@ -14,4 +14,5 @@ iii.start dev server : npm run dev
 The app will be available at http://localhost:5173
 
 
-# HomePage (public/screenshots/home.png)
+#screenshots
+public/screenshots
